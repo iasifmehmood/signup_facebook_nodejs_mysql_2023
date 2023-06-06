@@ -1,7 +1,5 @@
 # signup_facebook_nodejs_2023
 
-#Task: Signup with Google and Facebook
-
 .env variables
 
 #PORT = 5000
